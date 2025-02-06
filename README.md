@@ -2,7 +2,7 @@
 
  Get groceries at your doorstep by COD.
 
-## ⚡Objective
+## 🚀Objective
 
 The objective of the project is to create a user-friendly interface for customers to order groceries online with COD option.
 
